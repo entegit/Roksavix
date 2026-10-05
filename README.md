@@ -7,7 +7,7 @@ Secure Infrastructure. Reliable Technology.
 Built with plain HTML, CSS and JavaScript. No frameworks, no build step, no dependencies to install.
 
 Project structure
-.
+
 ├── index.html   # Page structure and text content
 ├── style.css    # All styling (colors, layout, animations, responsive rules)
 ├── script.js    # Behavior and content lists (services, expertise, process, form validation)
